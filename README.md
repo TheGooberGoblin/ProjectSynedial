@@ -1,6 +1,5 @@
 # **Project Synedial – A Text-Document ARG by Synenoch Labs**
-*Audio Overview:*
-<!-- ░░░ (https://notebooklm.google.com/notebook/fe5235f2-dfe2-4747-981a-99369f645fe9/audio) ░░░ -->
+*Audio Overview:(https://notebooklm.google.com/notebook/fe5235f2-dfe2-4747-981a-99369f645fe9/audio)*
 
 ---
 
